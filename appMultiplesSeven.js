@@ -7,7 +7,7 @@ function appMultiplesSeven() {
     multiplesOfSeven.push(index)
     }
   }
-  return multiplesOfSeven;
+  return multiplesOfSeven
 }
 
-module.exports = appMultiplesSeven;
+module.exports = appMultiplesSeven
